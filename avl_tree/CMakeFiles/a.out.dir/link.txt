@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/a.out.dir/ADT_set.c.o CMakeFiles/a.out.dir/User.c.o CMakeFiles/a.out.dir/avl_tree.c.o CMakeFiles/a.out.dir/main.c.o  -o a.out 
